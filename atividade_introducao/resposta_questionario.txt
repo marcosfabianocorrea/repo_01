@@ -1,0 +1,48 @@
+MARCOS FABIANO CORREA -
+RA:	1460682023030
+
+I - Sistema Computacional: MICROSOFT EXCEL
+
+Dados: Diversos numeros digitados ao longo da planilha.
+Informacao: Os numeros representao a quantidade de acidentes de transitos em determinadas regioes da cidade.
+Conhecimento: O conjunto de informacoes gera o conhecimento atraves de estatisticas e graficos dos lugares onde a incidencia de
+ acidentes envolvendo veiculos automotores e maior,podendo assim ser tomadas decisoes com base nesse conhecimento especifico.
+
+
+II-
+
+M - 77 - 1001101
+a - 97 - 1100001
+r - 114 - 1110010
+c - 99 - 1100011
+o - 111 - 1101111
+s - 115 - 1110011
+
+F - 70 - 1000110
+a - 97 - 1100001
+b - 98 - 1100010
+i - 105 - 1101001
+a - 97 - 1100001
+n - 110 - 1101110
+o - 111 - 1101111
+
+Saida:
+
+1001101
+1100001
+1110010
+1100011
+1101111
+1110011
+
+1000110
+1100001
+1100010
+1101001
+1100001
+1101110
+1101111
+
+
+III- https://www.bb.com.br/pbb/pagina-inicial#/
+
